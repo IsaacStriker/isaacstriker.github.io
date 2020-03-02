@@ -1,0 +1,51 @@
+* {
+    margin: auto;
+}
+body {
+    text-align: center;
+    background-color: white;
+}
+.page {
+    margin: 0 auto;
+    padding-top: 1rem;
+    min-height: calc(100vh - 13rem);
+    padding-bottom: 3rem;
+}
+.container {
+    width: 75%;
+    max-width: 1080px;
+}
+div {
+    display: block;
+}
+.all-text {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 1.488rem;
+}
+.h-text {
+    color: black;
+    line-height: 1.5;
+    font-size: 2.7rem;
+    max-width: 65%;
+}
+.p-text {
+    color: black;
+    line-height: 1.5;
+    max-width: 65%;
+}
+.a {
+    float: left;
+    margin-left: 420px;
+    padding: 8px;
+}
+.b {
+    float: right;
+    margin-right: 420px;
+    padding: 8px;
+
+}
+.c {
+    padding: 8px;
+}
